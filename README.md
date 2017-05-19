@@ -1,3 +1,0 @@
-“# Proyecto AdivinarElNumeroSecreto.”
-# AdivinaElNumeroSecreto
-# AdivinaElNumeroSecreto
